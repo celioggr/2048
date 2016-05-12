@@ -5,7 +5,27 @@ If you want, you have the option to use Lanterna for graphical purposes.
 
 #Why did we do this
 
-This project was build during our course of Programming Laboratory in our [University](http://sigarra.up.pt/fcup).
+This project was built during our course of Programming Laboratory in our [University](http://sigarra.up.pt/fcup).
+
+
+#Dependencies
+
+* Java 8
+* lanterna-2.1.7.jar
+
+#Running
+
+
+To run the game just download the jar file 2048.jar and run the following command on terminal:
+
+`java -jar 2048.jar`
+
+
+#Contributing
+
+
+We appreciate your feedback as well as some improvements that could benefit our code. Feel free to fork and open a pull request into master.
+
 
 #Contributions:
 
